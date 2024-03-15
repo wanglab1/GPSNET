@@ -1,0 +1,41 @@
+Package: GPSNET
+Title: Genome-wide Pathway Selection with Network Regularization
+Version: 0.0.6
+Date: 2019-05-09
+Author: Sijie Yao[aut, cre],
+  Kaiqiao Li [aut],
+  Tingyi Li [aut],
+  Xuefeng Wang [aut]
+Maintainer: Sijie Yao <sijie.yao@moffitt.org>
+Description: GPS-NET: THE GENOME-WIDE PATHWAY SELECTION WITH NETWORK REGULARIZATION IN HIGH-DIMENSIONAL GENOMIC DATA.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+LinkingTo: 
+    Rcpp,
+    RcppArmadillo
+Depends: 
+    R (>= 3.6.0),
+    survival,
+    data.table
+Imports: 
+    Rcpp (>= 1.0.0),
+    methods,
+    stats,
+    Matrix,
+    ggplot2,
+    gridExtra,
+    maxstat,
+    survminer,
+    plotROC,
+    shiny,
+    foreach,
+    pROC,
+    huge,
+    OptimalCutpoints
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

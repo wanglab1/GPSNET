@@ -1,0 +1,423 @@
+[
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+        "file_last_write": 1710523878.0,
+        "definitions": [
+            {
+                "usr": "c:@F@Coxnet#$@N@arma@S@Col>#d#&$@N@arma@S@Mat>#d#b#&$@N@arma@S@Col>#i#S3_#S3_#&S0_#S1_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxnet(arma::vec, arma::mat &, bool, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::mat &, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 9,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxaagg#$@N@arma@S@Col>#d#d#d#I#S0_#$@N@arma@S@Mat>#d#b#&$@N@arma@S@Col>#i#S2_#S2_#&S0_#S1_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxaagg(arma::vec, double, double, int, arma::vec, arma::mat, bool, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::mat, arma::vec, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 24,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@cvCoxnet1#I#$@N@arma@S@Col>#d#&$@N@arma@S@Mat>#d#&S0_#b#&$@N@arma@S@Col>#i#S4_#S4_#S3_#S1_#S1_#S3_#S3_#S4_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cvCoxnet1(int, arma::vec, arma::mat &, arma::vec &, bool, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::mat &, arma::mat &, arma::vec &, arma::vec &, arma::uvec &, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 37,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@cvCoxnet1_pal#$@N@arma@S@Col>#d#$@N@arma@S@Mat>#d#S1_#S1_#S0_#b#$@N@arma@S@Col>#i#S2_#S2_#b#S2_#S2_#S2_#S0_#S0_#S0_#S1_#S1_#S0_#S0_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cvCoxnet1_pal(arma::vec, arma::mat, arma::mat, arma::mat, arma::vec, bool, arma::uvec, arma::uvec, arma::uvec, bool, arma::uvec, arma::uvec, arma::uvec, arma::vec, arma::vec, arma::vec, arma::mat, arma::mat, arma::vec, arma::vec, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 110,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@cvCoxnet2#I#&$@N@arma@S@Col>#d#&$@N@arma@S@Mat>#d#S0_#b#I#&$@N@arma@S@Col>#i#S4_#S4_#S0_#S2_#S0_#S4_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cvCoxnet2(int, arma::vec &, arma::mat &, arma::vec &, bool, int, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::mat &, arma::vec &, arma::uvec &, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 135,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@cvCoxnet2_pal#&$@N@arma@S@Col>#d#&$@N@arma@S@Mat>#d#S2_#S2_#S0_#b#I#&$@N@arma@S@Col>#i#S4_#S4_#b#I#S4_#S4_#S4_#S0_#S0_#S0_#S2_#S0_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cvCoxnet2_pal(arma::vec &, arma::mat &, arma::mat &, arma::mat &, arma::vec &, bool, int, arma::uvec &, arma::uvec &, arma::uvec &, bool, int, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::vec &, arma::vec &, arma::mat &, arma::vec &, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 201,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@cvCoxaagg#I#I#I#&$@N@arma@S@Col>#d#S0_#&$@N@arma@S@Mat>#d#S0_#b#&$@N@arma@S@Col>#i#S4_#S4_#S0_#S2_#S0_#S0_#S0_#S4_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cvCoxaagg(int, int, int, arma::vec &, arma::vec &, arma::mat &, arma::vec &, bool, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::mat &, arma::vec &, arma::vec &, arma::vec &, arma::uvec &, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 220,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@ssCoxaagg#I#&$@N@arma@S@Col>#d#S0_#&$@N@arma@S@Mat>#d#S0_#b#&$@N@arma@S@Col>#i#S4_#S4_#S0_#S2_#S0_#S0_#S0_#&$@N@arma@S@Mat>#i#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ssCoxaagg(int, arma::vec &, arma::vec &, arma::mat &, arma::vec &, bool, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::mat &, arma::vec &, arma::vec &, arma::vec &, arma::umat &, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 358,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@ssCoxaagg_pal#I#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#b#$@N@arma@S@Col>#i#S2_#S2_#S0_#S1_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ssCoxaagg_pal(int, arma::vec, arma::vec, arma::mat, bool, arma::uvec, arma::uvec, arma::uvec, arma::vec, arma::mat, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 489,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxaagg_search#I#I#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#b#$@N@arma@S@Col>#i#S2_#S2_#S0_#S1_#S0_#S0_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxaagg_search(int, int, arma::vec, arma::vec, arma::mat, bool, arma::uvec, arma::uvec, arma::uvec, arma::vec, arma::mat, arma::vec, arma::vec, arma::vec, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 572,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxaagg_search_pal#I#I#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#b#$@N@arma@S@Col>#i#S2_#S2_#S0_#S1_#S0_#S0_#d#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxaagg_search_pal(int, int, arma::vec, arma::vec, arma::mat, bool, arma::uvec, arma::uvec, arma::uvec, arma::vec, arma::mat, arma::vec, arma::vec, double, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 671,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@cvCoxaagg_pal#I#I#I#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#S1_#S1_#S0_#b#$@N@arma@S@Col>#i#S2_#S2_#b#S2_#S2_#S2_#S0_#S0_#S0_#S1_#S0_#S0_#S0_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cvCoxaagg_pal(int, int, int, arma::vec, arma::vec, arma::mat, arma::mat, arma::mat, arma::vec, bool, arma::uvec, arma::uvec, arma::uvec, bool, arma::uvec, arma::uvec, arma::uvec, arma::vec, arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, arma::vec, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 763,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@findCox1se#I#I#I#&$@N@arma@S@Col>#d#S0_#&$@N@arma@S@Mat>#d#b#&$@N@arma@S@Col>#i#S4_#S4_#S0_#S2_#S0_#I#d#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findCox1se(int, int, int, arma::vec &, arma::vec &, arma::mat &, bool, arma::uvec &, arma::uvec &, arma::uvec &, arma::vec &, arma::mat &, arma::vec &, int, double, arma::mat &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxaagg.cpp",
+                "line": 858,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+        "file_last_write": 1710523878.0,
+        "definitions": [
+            {
+                "usr": "c:@F@tsign#d#I#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "tsign(double, int, double, int)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 7,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@invcumsum#I#&$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "invcumsum(int, arma::vec &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 19,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@cidx#I#$@N@arma@S@Col>#d#&S0_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cidx(int, arma::vec, arma::vec &, arma::vec &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 30,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@tieup#&$@N@arma@S@Col>#d#S0_#$@N@arma@S@Col>#i#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "tieup(arma::vec &, arma::vec &, arma::uvec, arma::uvec)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 51,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@tiedown#&$@N@arma@S@Col>#d#S0_#&$@N@arma@S@Col>#i#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "tiedown(arma::vec &, arma::vec &, arma::uvec &, arma::uvec &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 67,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@getdd#$@N@arma@S@Col>#d#&$@N@arma@S@Col>#i#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "getdd(arma::vec, arma::uvec &, arma::uvec &, arma::uvec &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 83,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxpieabs#b#I#&$@N@arma@S@Col>#i#S0_#&$@N@arma@S@Col>#d#S2_#&$@N@arma@S@Mat>#d#S2_#I#d#S4_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxpieabs(bool, int, arma::uvec &, arma::uvec &, arma::vec &, arma::vec &, arma::mat &, arma::vec &, int, double, arma::mat &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 102,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@devianceCox#I#$@N@arma@S@Col>#d#b#I#&$@N@arma@S@Col>#i#S1_#&S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "devianceCox(int, arma::vec, bool, int, arma::uvec &, arma::uvec &, arma::vec &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 116,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxnet0#I#I#I#$@N@arma@S@Col>#d#&$@N@arma@S@Mat>#d#b#&$@N@arma@S@Col>#i#S3_#&S0_#S5_#S2_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxnet0(int, int, int, arma::vec, arma::mat &, bool, arma::uvec &, arma::uvec &, arma::vec &, arma::vec &, arma::mat, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 209,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxaen#I#I#I#$@N@arma@S@Col>#d#d#d#S0_#$@N@arma@S@Mat>#d#b#&$@N@arma@S@Col>#i#S2_#&S0_#S4_#S4_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxaen(int, int, int, arma::vec, double, double, arma::vec, arma::mat, bool, arma::uvec &, arma::uvec &, arma::vec &, arma::vec &, arma::vec &, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 311,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxal#I#I#I#$@N@arma@S@Col>#d#d#S0_#$@N@arma@S@Mat>#d#b#&$@N@arma@S@Col>#i#S2_#&S0_#S4_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxal(int, int, int, arma::vec, double, arma::vec, arma::mat, bool, arma::uvec &, arma::uvec &, arma::vec &, arma::vec &, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 395,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Coxaagg0#I#I#I#$@N@arma@S@Col>#d#d#d#S0_#$@N@arma@S@Mat>#d#b#&$@N@arma@S@Col>#i#S2_#&S0_#S4_#S1_#S0_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Coxaagg0(int, int, int, arma::vec, double, double, arma::vec, arma::mat, bool, arma::uvec &, arma::uvec &, arma::vec &, arma::vec &, arma::mat, arma::vec, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.cpp",
+                "line": 477,
+                "column": 5,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/Coxfunc.h",
+        "file_last_write": 1710523878.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/aag.cpp",
+        "file_last_write": 1710523878.0,
+        "definitions": [
+            {
+                "usr": "c:@F@getsign#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "getsign(double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/aag.cpp",
+                "line": 7,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@findzerocol#$@N@arma@S@Mat>#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "findzerocol(arma::mat, int)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/aag.cpp",
+                "line": 19,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/aag.h",
+        "file_last_write": 1710523878.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/logiaagg.cpp",
+        "file_last_write": 1710523878.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/logifunc.cpp",
+        "file_last_write": 1710523878.0,
+        "definitions": [
+            {
+                "usr": "c:@F@auc#I#&1$@N@arma@S@Col>#d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "auc(int, const arma::vec &, const arma::vec &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/logifunc.cpp",
+                "line": 7,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@logi1#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "logi1(double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/logifunc.cpp",
+                "line": 24,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@logipieabs#&1$@N@arma@S@Col>#d#&1$@N@arma@S@Mat>#d#d#S0_#I#d#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "logipieabs(const arma::vec &, const arma::mat &, double, const arma::vec &, int, double, const arma::mat &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/logifunc.cpp",
+                "line": 28,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@logiaen#d#$@N@arma@S@Col>#d#d#d#&1S0_#&1$@N@arma@S@Mat>#d#S1_#S1_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "logiaen(double, arma::vec, double, double, const arma::vec &, const arma::mat &, const arma::vec &, const arma::vec &, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/logifunc.cpp",
+                "line": 32,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@logial#d#$@N@arma@S@Col>#d#d#&1S0_#&1$@N@arma@S@Mat>#d#S1_#b#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "logial(double, arma::vec, double, const arma::vec &, const arma::mat &, const arma::vec &, bool, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/logifunc.cpp",
+                "line": 104,
+                "column": 5,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/logifunc.h",
+        "file_last_write": 1710523878.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/lraagg.cpp",
+        "file_last_write": 1710523878.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/lrfunc.cpp",
+        "file_last_write": 1710523878.0,
+        "definitions": [
+            {
+                "usr": "c:@F@lrpieabs#&1$@N@arma@S@Col>#d#&1$@N@arma@S@Mat>#d#S0_#I#d#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lrpieabs(const arma::vec &, const arma::mat &, const arma::vec &, int, double, const arma::mat &)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/lrfunc.cpp",
+                "line": 7,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@lraen#$@N@arma@S@Col>#d#d#d#&1S0_#&1$@N@arma@S@Mat>#d#S1_#S1_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lraen(arma::vec, double, double, const arma::vec &, const arma::mat &, const arma::vec &, const arma::vec &, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/lrfunc.cpp",
+                "line": 11,
+                "column": 5,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@lral#$@N@arma@S@Col>#d#d#&1S0_#&1$@N@arma@S@Mat>#d#S1_#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lral(arma::vec, double, const arma::vec &, const arma::mat &, const arma::vec &, int, double)",
+                "file": "/Users/4471938/Downloads/gps/GPSNET/src/lrfunc.cpp",
+                "line": 61,
+                "column": 5,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/4471938/Downloads/gps/GPSNET/src/lrfunc.h",
+        "file_last_write": 1710523878.0,
+        "definitions": [],
+        "hidden": false
+    }
+]
